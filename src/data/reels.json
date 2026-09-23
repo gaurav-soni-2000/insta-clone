@@ -1,0 +1,111 @@
+[
+  {
+    "id": "reel_001",
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "verified": true,
+    "videoUrl": "post_dev01.jpg",
+    "thumbnail": "post_dev01.jpg",
+    "caption": "How to structure modern fullstack applications for maximum speed ⚡ #developer #coding #tech",
+    "audioTrack": {
+      "title": "Marad B..",
+      "artist": "Pawan Sin.."
+    },
+    "likes": 54200,
+    "commentsCount": 1420,
+    "sharesCount": 8900,
+    "viewsText": "571K"
+  },
+  {
+    "id": "reel_002",
+    "userId": "user_002",
+    "username": "john",
+    "userAvatar": "john.jpg",
+    "verified": true,
+    "videoUrl": "post_city02.jpg",
+    "thumbnail": "post_city02.jpg",
+    "caption": "Rainy night photography in Shinjuku, Tokyo 🇯🇵🌧️ Color grading breakdown.",
+    "audioTrack": {
+      "title": "Midnight City",
+      "artist": "M83"
+    },
+    "likes": 284000,
+    "commentsCount": 4210,
+    "sharesCount": 31200,
+    "viewsText": "3.4M"
+  },
+  {
+    "id": "reel_003",
+    "userId": "user_003",
+    "username": "sarah",
+    "userAvatar": "sarah.jpg",
+    "verified": false,
+    "videoUrl": "post_travel01.jpg",
+    "thumbnail": "post_travel01.jpg",
+    "caption": "Hidden gem waterfall in Bali! Tag who you would bring here 🌴💦 #travel #wanderlust",
+    "audioTrack": {
+      "title": "Golden Hour",
+      "artist": "JVKE"
+    },
+    "likes": 740000,
+    "commentsCount": 9800,
+    "sharesCount": 115000,
+    "viewsText": "8.2M"
+  },
+  {
+    "id": "reel_004",
+    "userId": "user_005",
+    "username": "david",
+    "userAvatar": "david.jpg",
+    "verified": false,
+    "videoUrl": "post_gym01.jpg",
+    "thumbnail": "post_gym01.jpg",
+    "caption": "Stop making this bench press mistake! Fix your elbow flare immediately 🚨💪",
+    "audioTrack": {
+      "title": "Workout Motivation Mix",
+      "artist": "Gym Beats"
+    },
+    "likes": 195000,
+    "commentsCount": 2600,
+    "sharesCount": 44000,
+    "viewsText": "2.8M"
+  },
+  {
+    "id": "reel_005",
+    "userId": "user_006",
+    "username": "kritika",
+    "userAvatar": "kritika.jpg",
+    "verified": true,
+    "videoUrl": "post_fashion01.jpg",
+    "thumbnail": "post_fashion01.jpg",
+    "caption": "Styling one oversized trench coat 3 different ways 🧥✨ Which look is your favorite?",
+    "audioTrack": {
+      "title": "Fashion Groove",
+      "artist": "Milan Sound"
+    },
+    "likes": 61200,
+    "commentsCount": 890,
+    "sharesCount": 7800,
+    "viewsText": "663K"
+  },
+  {
+    "id": "reel_006",
+    "userId": "user_007",
+    "username": "akshat",
+    "userAvatar": "akshat.jpg",
+    "verified": false,
+    "videoUrl": "post_music01.jpg",
+    "thumbnail": "post_music01.jpg",
+    "caption": "Building an 80s synth bassline from scratch in 60 seconds 🎹🔊",
+    "audioTrack": {
+      "title": "Andekhi..",
+      "artist": "Rahul Shar.."
+    },
+    "likes": 42000,
+    "commentsCount": 510,
+    "sharesCount": 3900,
+    "viewsText": "543K"
+  }
+]
+

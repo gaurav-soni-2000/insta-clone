@@ -1,0 +1,93 @@
+{
+  "sections": [
+    {
+      "title": "Your account",
+      "subtitleBadge": "Meta",
+      "items": [
+        {
+          "id": "accounts_centre",
+          "title": "Accounts Centre",
+          "subtitle": "Password, security, personal details, connected experiences, ad preferences",
+          "icon": "person-circle-outline",
+          "hasMetaLogo": true
+        }
+      ]
+    },
+    {
+      "title": "Family Centre",
+      "items": [
+        {
+          "id": "supervision",
+          "title": "Supervision for Teen Accounts",
+          "icon": "people-outline"
+        }
+      ]
+    },
+    {
+      "title": "How you use Instagram",
+      "items": [
+        {
+          "id": "saved",
+          "title": "Saved",
+          "icon": "bookmark-outline"
+        },
+        {
+          "id": "archive",
+          "title": "Archive",
+          "icon": "time-outline"
+        },
+        {
+          "id": "activity",
+          "title": "Your activity",
+          "icon": "pulse-outline"
+        },
+        {
+          "id": "notifications",
+          "title": "Notifications",
+          "icon": "notifications-outline"
+        },
+        {
+          "id": "time",
+          "title": "Time management",
+          "icon": "timer-outline"
+        },
+        {
+          "id": "tablets",
+          "title": "Instagram for tablets",
+          "icon": "tablet-portrait-outline"
+        }
+      ]
+    },
+    {
+      "title": "Who can see your content",
+      "items": [
+        {
+          "id": "privacy",
+          "title": "Account privacy",
+          "icon": "lock-closed-outline"
+        },
+        {
+          "id": "close_friends",
+          "title": "Close Friends",
+          "icon": "star-outline"
+        }
+      ]
+    },
+    {
+      "title": "More info and support",
+      "items": [
+        {
+          "id": "help",
+          "title": "Help",
+          "icon": "help-circle-outline"
+        },
+        {
+          "id": "about",
+          "title": "About",
+          "icon": "information-circle-outline"
+        }
+      ]
+    }
+  ]
+}
+

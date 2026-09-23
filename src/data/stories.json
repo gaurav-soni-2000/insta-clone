@@ -1,0 +1,119 @@
+[
+  {
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "hasUnseenStory": true,
+    "stories": [
+      {
+        "id": "story_g01",
+        "image": "post_dev01.jpg",
+        "timestamp": "2h ago",
+        "duration": 5000
+      },
+      {
+        "id": "story_g02",
+        "image": "post_coffee.jpg",
+        "timestamp": "45m ago",
+        "duration": 5000
+      }
+    ]
+  },
+  {
+    "userId": "user_003",
+    "username": "sarah",
+    "userAvatar": "sarah.jpg",
+    "hasUnseenStory": true,
+    "stories": [
+      {
+        "id": "story_s01",
+        "image": "post_travel01.jpg",
+        "timestamp": "1h ago",
+        "duration": 5000
+      },
+      {
+        "id": "story_s02",
+        "image": "post_food01.jpg",
+        "timestamp": "30m ago",
+        "duration": 5000
+      }
+    ]
+  },
+  {
+    "userId": "user_002",
+    "username": "john",
+    "userAvatar": "john.jpg",
+    "hasUnseenStory": true,
+    "stories": [
+      {
+        "id": "story_j01",
+        "image": "post_city02.jpg",
+        "timestamp": "3h ago",
+        "duration": 5000
+      }
+    ]
+  },
+  {
+    "userId": "user_006",
+    "username": "kritika",
+    "userAvatar": "kritika.jpg",
+    "hasUnseenStory": true,
+    "stories": [
+      {
+        "id": "story_k01",
+        "image": "post_fashion01.jpg",
+        "timestamp": "4h ago",
+        "duration": 5000
+      },
+      {
+        "id": "story_k02",
+        "image": "post_fashion02.jpg",
+        "timestamp": "2h ago",
+        "duration": 5000
+      }
+    ]
+  },
+  {
+    "userId": "user_004",
+    "username": "alex",
+    "userAvatar": "alex.jpg",
+    "hasUnseenStory": false,
+    "stories": [
+      {
+        "id": "story_a01",
+        "image": "post_city01.jpg",
+        "timestamp": "6h ago",
+        "duration": 5000
+      }
+    ]
+  },
+  {
+    "userId": "user_005",
+    "username": "david",
+    "userAvatar": "david.jpg",
+    "hasUnseenStory": false,
+    "stories": [
+      {
+        "id": "story_d01",
+        "image": "post_gym01.jpg",
+        "timestamp": "8h ago",
+        "duration": 5000
+      }
+    ]
+  },
+  {
+    "userId": "user_007",
+    "username": "akshat",
+    "userAvatar": "akshat.jpg",
+    "hasUnseenStory": true,
+    "stories": [
+      {
+        "id": "story_m01",
+        "image": "post_music01.jpg",
+        "timestamp": "5h ago",
+        "duration": 5000
+      }
+    ]
+  }
+]
+

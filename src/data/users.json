@@ -1,0 +1,204 @@
+[
+  {
+    "id": "user_001",
+    "username": "_er_gourav",
+    "displayName": "Er Gaurav",
+    "password": "demo123",
+    "bio": "",
+    "website": "",
+    "profileImage": "gaurav.jpg",
+    "verified": false,
+    "category": "",
+    "note": {
+      "text": "Make this\nspace\nyours...",
+      "musicTitle": "",
+      "musicArtist": "",
+      "location": ""
+    },
+    "professionalDashboard": {
+      "viewsText": "11.2K views in the last 30 days.",
+      "period": "30 days"
+    },
+    "tags": ["@_er_gourav", "Yuvi"],
+    "stats": {
+      "posts": 36,
+      "followers": 1249,
+      "following": 300
+    },
+    "buttons": {
+      "showEditProfile": true,
+      "showShareProfile": true,
+      "showMessage": false,
+      "showFollow": false
+    },
+    "isPrivate": false
+  },
+  {
+    "id": "user_002",
+    "username": "john",
+    "displayName": "John Doe",
+    "password": "demo123",
+    "bio": "Visual Storyteller & Street Photographer 📸\nCapturing moments between shadows and light ✨\nWork featured in NatGeo & Vogue",
+    "website": "johndoe.photo",
+    "profileImage": "john.jpg",
+    "verified": true,
+    "category": "Creator",
+    "note": {
+      "text": "Editing in Tokyo 🗼",
+      "musicTitle": "Midnight City",
+      "musicArtist": "M83"
+    },
+    "professionalDashboard": {
+      "viewsText": "45.8K views in the last 30 days.",
+      "period": "30 days"
+    },
+    "tags": ["@john_visuals", "Tokyo"],
+    "stats": {
+      "posts": 125,
+      "followers": 25000,
+      "following": 512
+    },
+    "buttons": {
+      "showEditProfile": true,
+      "showShareProfile": true,
+      "showMessage": true,
+      "showFollow": true
+    },
+    "isPrivate": false
+  },
+  {
+    "id": "user_003",
+    "username": "sarah",
+    "displayName": "Sarah Jenkins",
+    "password": "demo123",
+    "bio": "Travel enthusiast | 35 countries & counting ✈️\nPlant-based foodie 🥑\nLiving life one sunset at a time 🌅",
+    "website": "sarahwanderlust.blog",
+    "profileImage": "sarah.jpg",
+    "verified": false,
+    "category": "Traveler",
+    "note": {
+      "text": "Packing for Bali 🌴",
+      "musicTitle": "Golden Hour",
+      "musicArtist": "JVKE"
+    },
+    "stats": {
+      "posts": 84,
+      "followers": 45200,
+      "following": 410
+    },
+    "buttons": {
+      "showEditProfile": true,
+      "showShareProfile": true,
+      "showMessage": true,
+      "showFollow": true
+    },
+    "isPrivate": false
+  },
+  {
+    "id": "user_004",
+    "username": "alex",
+    "displayName": "Alex Rivera",
+    "password": "demo123",
+    "bio": "Founder @ DevFlow ⚡\nInvesting in AI & open-source technologies 💻\nAlways building, always learning.",
+    "website": "alexrivera.io",
+    "profileImage": "alex.jpg",
+    "verified": true,
+    "category": "Entrepreneur",
+    "note": {
+      "text": "Shipping v2.0 tonight 🚀"
+    },
+    "stats": {
+      "posts": 19,
+      "followers": 8920,
+      "following": 180
+    },
+    "buttons": {
+      "showEditProfile": true,
+      "showShareProfile": true,
+      "showMessage": true,
+      "showFollow": true
+    },
+    "isPrivate": false
+  },
+  {
+    "id": "user_005",
+    "username": "david",
+    "displayName": "David Kim",
+    "password": "demo123",
+    "bio": "Certified Strength & Conditioning Specialist 🏋️\nHelping you crush your PRs 💪\nOnline Coaching & Diet Guides 👇",
+    "website": "davidkimfit.com",
+    "profileImage": "david.jpg",
+    "verified": false,
+    "category": "Fitness Trainer",
+    "note": {
+      "text": "Leg day never stops 🔥"
+    },
+    "stats": {
+      "posts": 62,
+      "followers": 14100,
+      "following": 630
+    },
+    "buttons": {
+      "showEditProfile": true,
+      "showShareProfile": true,
+      "showMessage": true,
+      "showFollow": true
+    },
+    "isPrivate": false
+  },
+  {
+    "id": "user_006",
+    "username": "kritika",
+    "displayName": "Kritika Gaurav Soni",
+    "password": "demo123",
+    "bio": "Fashion designer & Creative Director ✨\nStyle is a way to say who you are without speaking 👗",
+    "website": "kritikastyles.com",
+    "profileImage": "kritika.jpg",
+    "verified": true,
+    "category": "Fashion Designer",
+    "note": {
+      "text": "Fashion week prep 🪡"
+    },
+    "stats": {
+      "posts": 53,
+      "followers": 31800,
+      "following": 290
+    },
+    "buttons": {
+      "showEditProfile": true,
+      "showShareProfile": true,
+      "showMessage": true,
+      "showFollow": true
+    },
+    "isPrivate": false
+  },
+  {
+    "id": "user_007",
+    "username": "akshat",
+    "displayName": "Akshat Soni",
+    "password": "demo123",
+    "bio": "Music producer & Sound engineer 🎧🎹\nNew single out this Friday! Link below 👇",
+    "website": "spotify.com/akshat-music",
+    "profileImage": "akshat.jpg",
+    "verified": false,
+    "category": "Musician",
+    "note": {
+      "text": "In the studio all night 🎶",
+      "musicTitle": "Andekhi..",
+      "musicArtist": "Rahul Shar.."
+    },
+    "stats": {
+      "posts": 27,
+      "followers": 5400,
+      "following": 210
+    },
+    "buttons": {
+      "showEditProfile": true,
+      "showShareProfile": true,
+      "showMessage": true,
+      "showFollow": true
+    },
+    "isPrivate": false
+  }
+]
+

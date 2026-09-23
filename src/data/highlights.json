@@ -1,0 +1,121 @@
+[
+  {
+    "id": "hl_g01",
+    "userId": "user_001",
+    "title": "🏋️",
+    "coverImage": "highlight_gym.jpg",
+    "emoji": "🏋️",
+    "stories": [
+      {
+        "id": "hl_s01",
+        "image": "post_gym01.jpg",
+        "timestamp": "24w ago"
+      },
+      {
+        "id": "hl_s02",
+        "image": "post_gym02.jpg",
+        "timestamp": "20w ago"
+      }
+    ]
+  },
+  {
+    "id": "hl_g02",
+    "userId": "user_001",
+    "title": "❤️",
+    "coverImage": "highlight_life.jpg",
+    "emoji": "❤️",
+    "stories": [
+      {
+        "id": "hl_s03",
+        "image": "post_travel01.jpg",
+        "timestamp": "18w ago"
+      },
+      {
+        "id": "hl_s04",
+        "image": "post_city01.jpg",
+        "timestamp": "15w ago"
+      }
+    ]
+  },
+  {
+    "id": "hl_g03",
+    "userId": "user_001",
+    "title": "🥹",
+    "coverImage": "highlight_code.jpg",
+    "emoji": "🥹",
+    "stories": [
+      {
+        "id": "hl_s05",
+        "image": "post_dev01.jpg",
+        "timestamp": "12w ago"
+      }
+    ]
+  },
+  {
+    "id": "hl_g04",
+    "userId": "user_001",
+    "title": "📍",
+    "coverImage": "highlight_work.jpg",
+    "emoji": "📍",
+    "stories": [
+      {
+        "id": "hl_s06",
+        "image": "post_dev02.jpg",
+        "timestamp": "8w ago"
+      }
+    ]
+  },
+  {
+    "id": "hl_j01",
+    "userId": "user_002",
+    "title": "Tokyo",
+    "coverImage": "highlight_travel.jpg",
+    "stories": [
+      {
+        "id": "hl_sj01",
+        "image": "post_city02.jpg",
+        "timestamp": "10w ago"
+      }
+    ]
+  },
+  {
+    "id": "hl_j02",
+    "userId": "user_002",
+    "title": "Portraits",
+    "coverImage": "highlight_work.jpg",
+    "stories": [
+      {
+        "id": "hl_sj02",
+        "image": "post_portrait01.jpg",
+        "timestamp": "14w ago"
+      }
+    ]
+  },
+  {
+    "id": "hl_s01",
+    "userId": "user_003",
+    "title": "Maldives 🌊",
+    "coverImage": "highlight_travel.jpg",
+    "stories": [
+      {
+        "id": "hl_ss01",
+        "image": "post_travel01.jpg",
+        "timestamp": "16w ago"
+      }
+    ]
+  },
+  {
+    "id": "hl_s02",
+    "userId": "user_003",
+    "title": "Foodie 🥑",
+    "coverImage": "highlight_life.jpg",
+    "stories": [
+      {
+        "id": "hl_ss02",
+        "image": "post_food01.jpg",
+        "timestamp": "22w ago"
+      }
+    ]
+  }
+]
+

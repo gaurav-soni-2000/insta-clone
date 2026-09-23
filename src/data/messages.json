@@ -1,0 +1,192 @@
+{
+  "notes": [
+    {
+      "userId": "user_001",
+      "username": "Your note",
+      "userAvatar": "gaurav.jpg",
+      "noteText": "Ready for...",
+      "location": "Location off"
+    },
+    {
+      "userId": "user_note_01",
+      "username": "Vivekpandey.Ji",
+      "userAvatar": "post_dev01.jpg",
+      "noteText": "Marad B..\nPawan Sin..\n🦅",
+      "musicTitle": "Marad B..",
+      "musicArtist": "Pawan Sin.."
+    },
+    {
+      "userId": "user_note_02",
+      "username": "P_U_N_I...",
+      "userAvatar": "john.jpg",
+      "noteText": "Andekhi..\nRahul Shar..\n💐👀😡",
+      "musicTitle": "Andekhi..",
+      "musicArtist": "Rahul Shar.."
+    },
+    {
+      "userId": "user_note_03",
+      "username": "HUNN",
+      "userAvatar": "david.jpg",
+      "noteText": "Miti..\nUbaid",
+      "musicTitle": "Miti..",
+      "musicArtist": "Ubaid"
+    }
+  ],
+  "conversations": [
+    {
+      "id": "conv_01",
+      "participantId": "user_007",
+      "participantUsername": "akshat",
+      "participantDisplayName": "Akshat Soni",
+      "participantAvatar": "akshat.jpg",
+      "lastMessageText": "Thank you",
+      "timestamp": "38m",
+      "unread": true,
+      "unreadCount": 1,
+      "messages": [
+        {
+          "id": "m1",
+          "senderId": "user_001",
+          "text": "Hey Akshat! Loved the preview of your new track.",
+          "timestamp": "1h ago"
+        },
+        {
+          "id": "m2",
+          "senderId": "user_007",
+          "text": "Thank you",
+          "timestamp": "38m ago"
+        }
+      ]
+    },
+    {
+      "id": "conv_02",
+      "participantId": "user_simmy",
+      "participantUsername": "simmy",
+      "participantDisplayName": "simmy",
+      "participantAvatar": "simmy.jpg",
+      "lastMessageText": "Sent a reel by mahi_mahi7741",
+      "timestamp": "14h",
+      "unread": false,
+      "isReelShare": true,
+      "messages": [
+        {
+          "id": "m3",
+          "senderId": "user_simmy",
+          "text": "Sent a reel by mahi_mahi7741",
+          "timestamp": "14h ago"
+        }
+      ]
+    },
+    {
+      "id": "conv_03",
+      "participantId": "user_bharti",
+      "participantUsername": "bhart_i2465",
+      "participantDisplayName": "bhart_i2465",
+      "participantAvatar": "bharti.jpg",
+      "lastMessageText": "3 new messages",
+      "timestamp": "15h",
+      "unread": true,
+      "unreadCount": 3,
+      "messages": [
+        {
+          "id": "m4",
+          "senderId": "user_bharti",
+          "text": "Hey are you free this weekend?",
+          "timestamp": "16h ago"
+        },
+        {
+          "id": "m5",
+          "senderId": "user_bharti",
+          "text": "Let me know regarding the plans",
+          "timestamp": "15h ago"
+        },
+        {
+          "id": "m6",
+          "senderId": "user_bharti",
+          "text": "Waiting for your reply!",
+          "timestamp": "15h ago"
+        }
+      ]
+    },
+    {
+      "id": "conv_04",
+      "participantId": "user_006",
+      "participantUsername": "kritika",
+      "participantDisplayName": "🎀Kritika gaurav soni❤️",
+      "participantAvatar": "kritika.jpg",
+      "lastMessageText": "Mentioned you in a story",
+      "timestamp": "16h",
+      "unread": false,
+      "isStoryMention": true,
+      "messages": [
+        {
+          "id": "m7",
+          "senderId": "user_006",
+          "text": "Mentioned you in a story",
+          "timestamp": "16h ago"
+        }
+      ]
+    },
+    {
+      "id": "conv_05",
+      "participantId": "user_ronak",
+      "participantUsername": "ronak_chohan_",
+      "participantDisplayName": "ronak_chohan_",
+      "participantAvatar": "ronak.jpg",
+      "lastMessageText": "O Acha 😂",
+      "timestamp": "18h",
+      "unread": false,
+      "messages": [
+        {
+          "id": "m8",
+          "senderId": "user_001",
+          "text": "Kal milte hain office ke baad.",
+          "timestamp": "19h ago"
+        },
+        {
+          "id": "m9",
+          "senderId": "user_ronak",
+          "text": "O Acha 😂",
+          "timestamp": "18h ago"
+        }
+      ]
+    },
+    {
+      "id": "conv_06",
+      "participantId": "user_002",
+      "participantUsername": "john",
+      "participantDisplayName": "John Doe",
+      "participantAvatar": "john.jpg",
+      "lastMessageText": "Let's catch up soon! 📸",
+      "timestamp": "1d",
+      "unread": false,
+      "messages": [
+        {
+          "id": "m10",
+          "senderId": "user_002",
+          "text": "Let's catch up soon! 📸",
+          "timestamp": "1d ago"
+        }
+      ]
+    },
+    {
+      "id": "conv_07",
+      "participantId": "user_003",
+      "participantUsername": "sarah",
+      "participantDisplayName": "Sarah Jenkins",
+      "participantAvatar": "sarah.jpg",
+      "lastMessageText": "Check out this place! 🏝️",
+      "timestamp": "2d",
+      "unread": false,
+      "messages": [
+        {
+          "id": "m11",
+          "senderId": "user_003",
+          "text": "Check out this place! 🏝️",
+          "timestamp": "2d ago"
+        }
+      ]
+    }
+  ]
+}
+

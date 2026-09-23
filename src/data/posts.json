@@ -1,0 +1,386 @@
+[
+  {
+    "id": "post_g01",
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "verified": true,
+    "image": "post_portrait01.jpg",
+    "caption": "Stay focused on the vision. Great things take time and persistent effort! 🚀💯",
+    "location": "Bengaluru, India",
+    "likes": 526,
+    "commentsCount": 24,
+    "timestamp": "2h",
+    "isPinned": true,
+    "viewsCount": "526",
+    "comments": [
+      {
+        "id": "c01",
+        "userId": "user_006",
+        "username": "kritika",
+        "userAvatar": "kritika.jpg",
+        "verified": true,
+        "text": "Looking sharp! 🔥",
+        "timestamp": "1h",
+        "likesCount": 4
+      },
+      {
+        "id": "c02",
+        "userId": "user_007",
+        "username": "akshat",
+        "userAvatar": "akshat.jpg",
+        "verified": false,
+        "text": "Hard work always pays off bro 🙌",
+        "timestamp": "45m",
+        "likesCount": 2
+      }
+    ]
+  },
+  {
+    "id": "post_g02",
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "verified": true,
+    "image": "post_dev01.jpg",
+    "caption": "Late night coding sessions with some lo-fi beats ☕💻 New architecture is coming together smoothly!",
+    "location": "Developer Space",
+    "likes": 350,
+    "commentsCount": 18,
+    "timestamp": "1d",
+    "isPinned": true,
+    "viewsCount": "350",
+    "comments": [
+      {
+        "id": "c03",
+        "userId": "user_004",
+        "username": "alex",
+        "userAvatar": "alex.jpg",
+        "verified": true,
+        "text": "Clean setup! What mechanical keyboard is that?",
+        "timestamp": "22h",
+        "likesCount": 3
+      }
+    ]
+  },
+  {
+    "id": "post_g03",
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "verified": true,
+    "image": "post_city01.jpg",
+    "caption": "Weekend city walks. Always finding inspiration in modern architecture 🏙️✨",
+    "location": "Cyber City",
+    "likes": 412,
+    "commentsCount": 15,
+    "timestamp": "3d",
+    "isPinned": true,
+    "comments": []
+  },
+  {
+    "id": "post_g04",
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "verified": true,
+    "image": "post_coffee.jpg",
+    "caption": "Fueling the morning debug grind ☕🥐 What's your go-to coffee?",
+    "location": "Third Wave Coffee",
+    "likes": 298,
+    "commentsCount": 31,
+    "timestamp": "5d",
+    "viewsCount": "298",
+    "comments": []
+  },
+  {
+    "id": "post_g05",
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "verified": true,
+    "image": "post_dev02.jpg",
+    "caption": "Clean code is like good poetry. Refactoring week has been so satisfying ⚡",
+    "likes": 380,
+    "commentsCount": 12,
+    "timestamp": "1w",
+    "viewsCount": "380",
+    "comments": []
+  },
+  {
+    "id": "post_g06",
+    "userId": "user_001",
+    "username": "_er_gourav",
+    "userAvatar": "gaurav.jpg",
+    "verified": true,
+    "image": "post_gym01.jpg",
+    "caption": "Discipline over motivation every single day 💪🏋️",
+    "location": "Gold's Gym",
+    "likes": 490,
+    "commentsCount": 27,
+    "timestamp": "2w",
+    "viewsCount": "490",
+    "comments": []
+  },
+  {
+    "id": "post_j01",
+    "userId": "user_002",
+    "username": "john",
+    "userAvatar": "john.jpg",
+    "verified": true,
+    "image": "post_city02.jpg",
+    "caption": "Tokyo rain reflections 🌧️ The neon lights create an entirely different atmosphere when the streets are wet. Shot on 35mm.",
+    "location": "Shibuya, Tokyo",
+    "likes": 3420,
+    "commentsCount": 118,
+    "timestamp": "4h",
+    "comments": [
+      {
+        "id": "cj01",
+        "userId": "user_003",
+        "username": "sarah",
+        "userAvatar": "sarah.jpg",
+        "verified": false,
+        "text": "Stunning composition John! The colors pop so well 😍",
+        "timestamp": "3h",
+        "likesCount": 14
+      }
+    ]
+  },
+  {
+    "id": "post_j02",
+    "userId": "user_002",
+    "username": "john",
+    "userAvatar": "john.jpg",
+    "verified": true,
+    "image": "post_nature01.jpg",
+    "caption": "Golden hour over the valleys. Silence was deafening up here 🏔️🌲",
+    "location": "Swiss Alps",
+    "likes": 4890,
+    "commentsCount": 156,
+    "timestamp": "2d",
+    "comments": []
+  },
+  {
+    "id": "post_j03",
+    "userId": "user_002",
+    "username": "john",
+    "userAvatar": "john.jpg",
+    "verified": true,
+    "image": "post_car01.jpg",
+    "caption": "Classic lines, timeless design. Sunday vintage drive 🏎️💨",
+    "location": "Carmel-by-the-Sea",
+    "likes": 2710,
+    "commentsCount": 64,
+    "timestamp": "4d",
+    "comments": []
+  },
+  {
+    "id": "post_s01",
+    "userId": "user_003",
+    "username": "sarah",
+    "userAvatar": "sarah.jpg",
+    "verified": false,
+    "image": "post_travel01.jpg",
+    "caption": "Turquoise waters & tropical breezes 🌊☀️ Never want to leave this paradise! Drop your favorite tropical island in the comments 👇",
+    "location": "Maldives",
+    "likes": 5620,
+    "commentsCount": 210,
+    "timestamp": "6h",
+    "comments": [
+      {
+        "id": "cs01",
+        "userId": "user_006",
+        "username": "kritika",
+        "userAvatar": "kritika.jpg",
+        "verified": true,
+        "text": "That water color is unreal!! Have the best time babe 💖",
+        "timestamp": "5h",
+        "likesCount": 8
+      }
+    ]
+  },
+  {
+    "id": "post_s02",
+    "userId": "user_003",
+    "username": "sarah",
+    "userAvatar": "sarah.jpg",
+    "verified": false,
+    "image": "post_travel02.jpg",
+    "caption": "Road trips through endless highways 🌵 Destination: nowhere in particular.",
+    "location": "Arizona Highway",
+    "likes": 3890,
+    "commentsCount": 82,
+    "timestamp": "3d",
+    "comments": []
+  },
+  {
+    "id": "post_s03",
+    "userId": "user_003",
+    "username": "sarah",
+    "userAvatar": "sarah.jpg",
+    "verified": false,
+    "image": "post_food01.jpg",
+    "caption": "Fresh acai bowl with passionfruit & chia seeds 🍓🍌 Fuel for exploring!",
+    "location": "Ubud, Bali",
+    "likes": 2150,
+    "commentsCount": 47,
+    "timestamp": "6d",
+    "comments": []
+  },
+  {
+    "id": "post_a01",
+    "userId": "user_004",
+    "username": "alex",
+    "userAvatar": "alex.jpg",
+    "verified": true,
+    "image": "post_art02.jpg",
+    "caption": "Announcing our new open source developer tools suite today! Huge shoutout to the incredible core team who made this happen 🚀 Link in bio.",
+    "location": "San Francisco, CA",
+    "likes": 1840,
+    "commentsCount": 94,
+    "timestamp": "8h",
+    "comments": [
+      {
+        "id": "ca01",
+        "userId": "user_001",
+        "username": "_er_gourav",
+        "userAvatar": "gaurav.jpg",
+        "verified": true,
+        "text": "Congrats Alex! Starred the repo already ⭐",
+        "timestamp": "7h",
+        "likesCount": 11
+      }
+    ]
+  },
+  {
+    "id": "post_a02",
+    "userId": "user_004",
+    "username": "alex",
+    "userAvatar": "alex.jpg",
+    "verified": true,
+    "image": "post_city01.jpg",
+    "caption": "Early morning pitch meetings done. Exciting things ahead for Q4 📈",
+    "likes": 980,
+    "commentsCount": 33,
+    "timestamp": "4d",
+    "comments": []
+  },
+  {
+    "id": "post_d01",
+    "userId": "user_005",
+    "username": "david",
+    "userAvatar": "david.jpg",
+    "verified": false,
+    "image": "post_gym02.jpg",
+    "caption": "Form check Friday! Remember: control the eccentric phase, don't just bounce the weight 💪 Save this for your next push day!",
+    "location": "Metro Fitness",
+    "likes": 2400,
+    "commentsCount": 78,
+    "timestamp": "12h",
+    "comments": []
+  },
+  {
+    "id": "post_d02",
+    "userId": "user_005",
+    "username": "david",
+    "userAvatar": "david.jpg",
+    "verified": false,
+    "image": "post_food02.jpg",
+    "caption": "High protein meal prep done for the week. 45g protein per bowl! Recipe in my story highlights 🥗🍗",
+    "likes": 1580,
+    "commentsCount": 42,
+    "timestamp": "5d",
+    "comments": []
+  },
+  {
+    "id": "post_k01",
+    "userId": "user_006",
+    "username": "kritika",
+    "userAvatar": "kritika.jpg",
+    "verified": true,
+    "image": "post_fashion01.jpg",
+    "caption": "Autumn collection moodboard & sketches come to life 🍂🧥 Silk, cashmere and earthy tones. Available online now.",
+    "location": "Milan Fashion Week",
+    "likes": 4250,
+    "commentsCount": 134,
+    "timestamp": "1d",
+    "comments": [
+      {
+        "id": "ck01",
+        "userId": "user_001",
+        "username": "_er_gourav",
+        "userAvatar": "gaurav.jpg",
+        "verified": true,
+        "text": "Stunning design! 👏✨",
+        "timestamp": "23h",
+        "likesCount": 6
+      }
+    ]
+  },
+  {
+    "id": "post_k02",
+    "userId": "user_006",
+    "username": "kritika",
+    "userAvatar": "kritika.jpg",
+    "verified": true,
+    "image": "post_fashion02.jpg",
+    "caption": "Backstage moments before the runway show begins 👠✨ The energy is electric!",
+    "likes": 3610,
+    "commentsCount": 89,
+    "timestamp": "3d",
+    "comments": []
+  },
+  {
+    "id": "post_k03",
+    "userId": "user_006",
+    "username": "kritika",
+    "userAvatar": "kritika.jpg",
+    "verified": true,
+    "image": "post_fashion03.jpg",
+    "caption": "Editorial spread for Vogue Scandinavia. Loved working with this creative team 📸🖤",
+    "likes": 5120,
+    "commentsCount": 160,
+    "timestamp": "1w",
+    "comments": []
+  },
+  {
+    "id": "post_m01",
+    "userId": "user_007",
+    "username": "akshat",
+    "userAvatar": "akshat.jpg",
+    "verified": false,
+    "image": "post_music01.jpg",
+    "caption": "Mastering the final mix for the upcoming EP 🎧🎚️ Can't wait for you all to hear this track!",
+    "location": "Soundscape Studios",
+    "likes": 1190,
+    "commentsCount": 55,
+    "timestamp": "18h",
+    "comments": [
+      {
+        "id": "cm01",
+        "userId": "user_001",
+        "username": "_er_gourav",
+        "userAvatar": "gaurav.jpg",
+        "verified": true,
+        "text": "Drop it soon bro!! 🔥",
+        "timestamp": "16h",
+        "likesCount": 4
+      }
+    ]
+  },
+  {
+    "id": "post_m02",
+    "userId": "user_007",
+    "username": "akshat",
+    "userAvatar": "akshat.jpg",
+    "verified": false,
+    "image": "post_art01.jpg",
+    "caption": "Visualizer art preview for the single 🎨 Synthwave aesthetic never gets old.",
+    "likes": 840,
+    "commentsCount": 21,
+    "timestamp": "4d",
+    "comments": []
+  }
+]
+
