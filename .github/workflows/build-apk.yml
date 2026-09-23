@@ -35,15 +35,20 @@ jobs:
       - name: Prebuild Native Android Project
         run: npx expo prebuild --platform android --clean
 
-      - name: Build APK with Gradle
+      - name: Configure Standalone Offline Release Build
+        run: |
+          # Force release variant to use debug signing key so it installs on any device without custom keystores
+          echo "android.buildTypes.release.signingConfig = android.signingConfigs.debug" >> android/app/build.gradle
+
+      - name: Build Standalone Offline APK (Release)
         run: |
           cd android
           chmod +x gradlew
-          ./gradlew assembleDebug --no-daemon --stacktrace
+          ./gradlew assembleRelease --no-daemon --stacktrace
 
       - name: Upload APK File
         uses: actions/upload-artifact@v4
         with:
           name: instagram-demo-apk
-          path: android/app/build/outputs/apk/debug/app-debug.apk
+          path: android/app/build/outputs/apk/release/*.apk
           retention-days: 7
